@@ -14,3 +14,6 @@ También podemos agregar más usuarios, ya sean usuarios normales o usuarios adm
 - Una vez que hayas creado la base de datos, importa los datos usando el archivo esquema.sql. Ese archivo lo encuentras junto con el código fuente.
 
 - https://parzibyte.me/blog/2022/05/06/punto-venta-php-jquery-bootstrap-gratuito-open-source/
+- https://github.com/mike42/escpos-php
+- https://github.com/mike42/gfx-php
+- modulos/ticket/vendor
